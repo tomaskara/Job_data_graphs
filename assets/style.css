@@ -1,0 +1,60 @@
+body {
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    background-color: #F7F7F7;
+}
+
+.header {
+    background-color: #3081cc;
+    height: 140px;
+    padding: 16px 0 0 0;
+}
+
+.header-title {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.menu {
+    height: 70px;
+    width: 912px;
+    margin: -40px auto 0 auto;
+    padding: 24px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+
+}
+
+.wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1524px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 32px;
+}
+
+.card {
+    margin-bottom: 24px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+}
+
+
+.dropdown {
+    width: 500px;
+    height: 38px;
+}
+
+.menu-title {
+    margin-bottom: 6px;
+}
+
+.checker {
+    margin-top: 32px;
+}
+
